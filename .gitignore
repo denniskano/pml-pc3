@@ -1,0 +1,20 @@
+# Ignorar carpeta de configuración de VS Code
+.vscode/
+
+# Ignorar ejecutables de Windows
+*.exe
+
+# Ignorar archivos de objetos y de depuración
+*.o
+*.obj
+*.dll
+*.lib
+*.pdb
+
+# Ignorar archivos temporales de editores
+*~
+*.swp
+
+# Ignorar archivos de respaldo
+*.bak
+*.tmp
